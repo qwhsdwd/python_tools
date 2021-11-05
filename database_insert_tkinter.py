@@ -3,10 +3,10 @@ import pymysql
 from smtplib import SMTP_SSL
 from email.mime.text import MIMEText
 
-host = 'www.zaihansheng.com'
+host = 'xxxxxxx'
 username = 'root'
-password = '99U6UkAbe4akuRjM'
-db_name = 'nike_shoes'
+password = 'xxxxx'
+db_name = 'xxxxx'
 
 insert_table_sql = """
 INSERT INTO article_number_shoes(shoes_ArtNo)
