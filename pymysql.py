@@ -6,8 +6,8 @@ start=time.time()
 
 host='localhost'
 username='root'
-password='99U6UkAbe4akuRjM'
-db_name='mysql_shiyanlou'
+password='xxxxxxxxxxxxxxxxxxxxx'
+db_name='mysqlxxxxxxxxx'
 
 create_table_sql="""
 CREATE TABLE fuck(
